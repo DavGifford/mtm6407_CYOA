@@ -6,6 +6,7 @@ You try to sign in to S.I.M.P.'s user interface system to begin the shutdown seq
 
 1. [Attempt to log in to S.I.M.P. using password "**guest**"](choice_1.md)
 
-2. Attempt to log in to S.I.M.P. using the name of the base **spelt backwards**.
+2. [Attempt to log in to S.I.M.P. using the name of the base **spelt backwards**.](choice_1b.md)
 
 3. Attempt to log in to S.I.M.P. using password "**simp1**"
+
