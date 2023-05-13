@@ -5,3 +5,7 @@ In the year 2075 CE, on the Lunar Base Elongated Muskrat. Scientists have been w
 You try to sign in to S.I.M.P.'s user interface system to begin the shutdown sequence; however, you are now locked out from accessing the system controls. In order to proceed you need to correctly guess the password.
 
 1. [Attempt to log in to S.I.M.P. using password "**guest**"](choice_1.md)
+
+2. Attempt to log in to S.I.M.P. using the name of the base **spelt backwards**.
+
+3. Attempt to log in to S.I.M.P. using password "**simp1**"
