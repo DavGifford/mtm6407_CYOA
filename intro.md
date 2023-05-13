@@ -8,5 +8,5 @@ You try to sign in to S.I.M.P.'s user interface system to begin the shutdown seq
 
 2. [Attempt to log in to S.I.M.P. using the name of the base **spelt backwards**.](choice_1b.md)
 
-3. Attempt to log in to S.I.M.P. using password "**simp1**"
+3. [Attempt to log in to S.I.M.P. using password "**simp1**"](failure.md)
 
